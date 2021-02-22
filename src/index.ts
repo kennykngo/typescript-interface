@@ -4,7 +4,7 @@ interface Profile {
   age?: number;
 }
 
-// Evelyn is cool.
+// Evelyn is cool. just kidding, I lied. She sucks.
 
 let profile: Profile = {
   name: 'John',

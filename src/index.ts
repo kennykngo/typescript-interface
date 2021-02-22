@@ -4,8 +4,10 @@ interface Profile {
   age?: number;
 }
 
+// Evelyn is cool.
+
 let profile: Profile = {
-  name: 'John'
+  name: 'John',
 };
 
 // Index Signature
